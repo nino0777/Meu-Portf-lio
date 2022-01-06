@@ -1,2 +1,3 @@
 # Meu Portfólio
-Projetos e arquivos utilizados durante o aprendizados dos cursos.
+## Curso Formação Javascript
+Projetos e arquivos utilizados durante o aprendizado dos cursos.
